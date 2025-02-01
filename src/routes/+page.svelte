@@ -8,7 +8,7 @@
 
 
     let {name}:{
-        name: string;
+    	    name: string;
     } = $props();
 
 
